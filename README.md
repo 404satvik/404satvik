@@ -23,7 +23,7 @@ Learning the foundations of machine learning and smart contracts, and shipping s
 
 **— reach —**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?style=flat-square&logo=linkedin&logoColor=0a66c2)](https://www.linkedin.com/in/satvik-pandey-474986251/)]
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-grey?style=flat-square&logo=linkedin&logoColor=0a66c2)](https://www.linkedin.com/in/satvik-pandey-474986251/)
 [![Email](https://img.shields.io/badge/Email-grey?style=flat-square&logo=gmail&logoColor=ea4335)](mailto:satvikpandey9197@gmail.com)
 [![GitHub](https://img.shields.io/badge/GitHub-grey?style=flat-square&logo=github&logoColor=white)](https://github.com/404satvik)
 
