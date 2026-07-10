@@ -1,23 +1,33 @@
 <h3 align="left">Satvik</h3>
 
-> *python at the core - building toward AI, blockchain & the web.*
+> *python at the core — building toward machine learning research.*
 
 <br>
 
-**— focus —**
+**— stack —**
 
 <pre>
-core         python · cpp
-ai / ml      numpy · pandas · pytorch
-blockchain   solidity · web3 · ethereum
-web          javascript · react · html · css
+core         python · c++
+ml           numpy · pandas · scikit-learn · pytorch
+nlp          spaCy · huggingface
+web          react · tailwind · javascript
 </pre>
+
+<br>
+
+**— building —**
+
+`Maat` — an AI legal assistant for Indian tenancy, consumer, and cheque-bounce disputes 
+
+`World Cup 2026 model` — outcome prediction with uncertainty quantification 
+
+`Sosumi` — a retro macOS music player, SwiftUI + real-time FFT spectrum analysis
 
 <br>
 
 **— currently —**
 
-Learning the foundations of machine learning and smart contracts, and shipping small web projects in Python along the way.
+Working through supervised ML fundamentals while shipping the above in parallel — orchestration first, mechanics second, closing the gap between them.
 
 <br>
 
